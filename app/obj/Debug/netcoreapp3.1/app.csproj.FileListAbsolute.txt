@@ -1,0 +1,14 @@
+C:\Users\natya\source\repos\app\bin\Debug\netcoreapp3.1\app.exe
+C:\Users\natya\source\repos\app\bin\Debug\netcoreapp3.1\app.deps.json
+C:\Users\natya\source\repos\app\bin\Debug\netcoreapp3.1\app.runtimeconfig.json
+C:\Users\natya\source\repos\app\bin\Debug\netcoreapp3.1\app.runtimeconfig.dev.json
+C:\Users\natya\source\repos\app\bin\Debug\netcoreapp3.1\app.dll
+C:\Users\natya\source\repos\app\bin\Debug\netcoreapp3.1\app.pdb
+C:\Users\natya\source\repos\app\obj\Debug\netcoreapp3.1\app.csproj.AssemblyReference.cache
+C:\Users\natya\source\repos\app\obj\Debug\netcoreapp3.1\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natya\source\repos\app\obj\Debug\netcoreapp3.1\app.AssemblyInfoInputs.cache
+C:\Users\natya\source\repos\app\obj\Debug\netcoreapp3.1\app.AssemblyInfo.cs
+C:\Users\natya\source\repos\app\obj\Debug\netcoreapp3.1\app.csproj.CoreCompileInputs.cache
+C:\Users\natya\source\repos\app\obj\Debug\netcoreapp3.1\app.dll
+C:\Users\natya\source\repos\app\obj\Debug\netcoreapp3.1\app.pdb
+C:\Users\natya\source\repos\app\obj\Debug\netcoreapp3.1\app.genruntimeconfig.cache
