@@ -1,0 +1,12 @@
+C:\Users\natya\OneDrive\Рабочий стол\Code\Chapter06\PacktLibrary\bin\Debug\net5.0\PacktLibrary.deps.json
+C:\Users\natya\OneDrive\Рабочий стол\Code\Chapter06\PacktLibrary\bin\Debug\net5.0\PacktLibrary.dll
+C:\Users\natya\OneDrive\Рабочий стол\Code\Chapter06\PacktLibrary\bin\Debug\net5.0\ref\PacktLibrary.dll
+C:\Users\natya\OneDrive\Рабочий стол\Code\Chapter06\PacktLibrary\bin\Debug\net5.0\PacktLibrary.pdb
+C:\Users\natya\OneDrive\Рабочий стол\Code\Chapter06\PacktLibrary\obj\Debug\net5.0\PacktLibrary.csproj.AssemblyReference.cache
+C:\Users\natya\OneDrive\Рабочий стол\Code\Chapter06\PacktLibrary\obj\Debug\net5.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natya\OneDrive\Рабочий стол\Code\Chapter06\PacktLibrary\obj\Debug\net5.0\PacktLibrary.AssemblyInfoInputs.cache
+C:\Users\natya\OneDrive\Рабочий стол\Code\Chapter06\PacktLibrary\obj\Debug\net5.0\PacktLibrary.AssemblyInfo.cs
+C:\Users\natya\OneDrive\Рабочий стол\Code\Chapter06\PacktLibrary\obj\Debug\net5.0\PacktLibrary.csproj.CoreCompileInputs.cache
+C:\Users\natya\OneDrive\Рабочий стол\Code\Chapter06\PacktLibrary\obj\Debug\net5.0\PacktLibrary.dll
+C:\Users\natya\OneDrive\Рабочий стол\Code\Chapter06\PacktLibrary\obj\Debug\net5.0\ref\PacktLibrary.dll
+C:\Users\natya\OneDrive\Рабочий стол\Code\Chapter06\PacktLibrary\obj\Debug\net5.0\PacktLibrary.pdb
